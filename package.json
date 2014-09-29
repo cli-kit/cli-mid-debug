@@ -24,7 +24,7 @@
     "action"
   ],
   "dependencies": {
-    "cli-define": "^0.5.44"
+    "cli-define": "^0.6.4"
   },
   "devDependencies": {
     "chai": "^1.9.1",
